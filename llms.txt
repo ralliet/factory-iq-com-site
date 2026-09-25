@@ -5,7 +5,7 @@
 Two modules are live today: reliability and root cause, and spare parts. It is in production at an integrated steel plant. Planned areas include losses and costs, maintenance planning, operator care, quality, safety, energy and environment, logistics, new equipment and people and skills.
 
 ## Pages
-- [Home](https://factory-iq.com/): overview, platform, coverage, principles, security, team and FAQ
+- [Home](https://factory-iq.com/): overview, platform, coverage, principles, security and FAQ
 - [Reliability and root cause](https://factory-iq.com/reliability.html): loss ranking, structured root cause analysis, verified results, lessons reused across similar equipment
 - [Spare parts](https://factory-iq.com/spare-parts.html): classification, shortage projection, policy simulation, approval log
 
@@ -18,11 +18,6 @@ Two modules are live today: reliability and root cause, and spare parts. It is i
 - **How are savings reported?** In three kinds that are never added together: expected savings from open work (a plan), savings reported at closure (a claim), and savings measured on the plant record before and after the fix (proof).
 - **How do we start with FactoryIQ?** With one area and a fixed-scope pilot: connect the data, set a baseline, run live root cause and stock decisions, then decide on a rollout with the results in hand.
 - **How is our data protected?** FactoryIQ reads from source systems by default, every figure traces back to the records it came from, a named person approves every change, and each client runs in its own environment.
-
-## Team
-- Filip Van Gerven, Industry lead
-- Alexander De Lancker, Cloud lead
-- Ruben Alliet, Data lead
 
 ## Contact
 - hello@factory-iq.com

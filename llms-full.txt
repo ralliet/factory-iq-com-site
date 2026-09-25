@@ -112,20 +112,6 @@ In production
 [METRIC] [RESULT]
 [METRIC] [RESULT]
 [METRIC] [RESULT]
-Team
-A senior team of industry & AI professionals.
-Filip Van Gerven
-Industry lead
-10+ years in steel and strategy consulting across Europe, Latin America and India. Formerly at ArcelorMittal Europe and Boston Consulting Group; has led operational transformations in steel, mining, chemicals and consumer goods.
-LinkedIn
-Alexander De Lancker
-Cloud lead
-10+ years in big data, advanced analytics and innovation for enterprises. Formerly at Microsoft and Amazon Web Services; has led digital twin, IoT and Industry 4.0 work for large global manufacturers.
-LinkedIn
-Ruben Alliet
-Data lead
-8+ years building data and AI solutions for multinationals: enterprise-scale data platforms, AI agents that automate workflows, and machine learning across Azure, Google Cloud and AWS.
-LinkedIn
 Questions
 Frequently asked questions.
 01
