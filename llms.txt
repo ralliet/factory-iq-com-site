@@ -1,0 +1,29 @@
+# FactoryIQ
+
+> FactoryIQ is software for manufacturing plants. It links maintenance, production and inventory data into one model of the plant, ranks losses by what they cost, guides root cause analysis (AI drafts, engineers approve), sizes spare parts stock on real risk, and proves on the maintenance record that each fix held.
+
+Two modules are live today: reliability and root cause, and spare parts. It is in production at an integrated steel plant. Planned areas include losses and costs, maintenance planning, operator care, quality, safety, energy and environment, logistics, new equipment and people and skills.
+
+## Pages
+- [Home](https://factory-iq.com/): overview, platform, coverage, principles, security, team and FAQ
+- [Reliability and root cause](https://factory-iq.com/reliability.html): loss ranking, structured root cause analysis, verified results, lessons reused across similar equipment
+- [Spare parts](https://factory-iq.com/spare-parts.html): classification, shortage projection, policy simulation, approval log
+
+## Frequently asked questions
+- **What is FactoryIQ?** FactoryIQ is software for manufacturing plants that links maintenance, production and inventory data into one model of the plant. It ranks losses by what they cost, guides the team through root cause analysis, sizes spare parts stock on real risk, and checks on the maintenance record whether each fix held.
+- **Who is FactoryIQ for?** Plant managers, maintenance and reliability engineers, continuous improvement teams and stores managers in asset-intensive manufacturing. It is in production at an integrated steel plant.
+- **What data does FactoryIQ need?** Maintenance notifications and work orders, spare parts movements and stock levels, production and downtime records, and the loss sheets teams already keep. Where something is not recorded yet, FactoryIQ adds simple capture for it.
+- **Does FactoryIQ replace our ERP or maintenance system?** No. FactoryIQ reads from the systems the plant already runs. Nothing is written back to them without an explicit, approved integration.
+- **How does FactoryIQ use AI?** AI prepares the work: it drafts analyses, proposes countermeasures and summarises findings. Engineers review, edit and approve every step, and each field shows whether it was drafted by AI, edited or approved.
+- **How are savings reported?** In three kinds that are never added together: expected savings from open work (a plan), savings reported at closure (a claim), and savings measured on the plant record before and after the fix (proof).
+- **How do we start with FactoryIQ?** With one area and a fixed-scope pilot: connect the data, set a baseline, run live root cause and stock decisions, then decide on a rollout with the results in hand.
+- **How is our data protected?** FactoryIQ reads from source systems by default, every figure traces back to the records it came from, a named person approves every change, and each client runs in its own environment.
+
+## Team
+- Filip Van Gerven, Industry lead
+- Alexander De Lancker, Cloud lead
+- Ruben Alliet, Data lead
+
+## Contact
+- hello@factory-iq.com
+- Full text of all pages: https://factory-iq.com/llms-full.txt

@@ -1,0 +1,281 @@
+# FactoryIQ: full site text
+
+## https://factory-iq.com/
+
+FactoryIQ · for manufacturing enterprises
+Know what to fix. Prove it worked.
+FactoryIQ connects the systems your plant runs on, captures what they miss, and gives every team one answer: where the plant is losing, what to fix first, and whether the last fix held.
+Request a demo
+Our mission
+From scattered data to a verified fix Illustrative
+2 modules live today, in production at an integrated steel plant.
+[N] weeks from first data to the first ranked losses.
+[N] months from first fix to a fix verified on the plant record.
+Built from
+Enterprise systems
+Process and production data
+Plant reports and spreadsheets
+New shop-floor records
+Mission
+No plant decision should rest on opinion .
+We build the software that puts evidence in front of the people who run the plant, and holds every fix to account.
+Objective
+Stop losing time.
+Rank every loss by what it costs. Remove the causes, not the symptoms.
+Objective
+Stock for risk, not for habit.
+The critical part on the shelf. The cash out of the ones that never move.
+Objective
+Make fixes stick.
+Measure every fix against what happened next. Copy what works everywhere it applies.
+Platform
+One model of your plant. Every team on the same facts.
+Assets, parts, failures and improvement work, linked in one place. When a machine stops, operations, maintenance and stores see the same cause, the same part and the same fix.
+Connect
+Link what you have. Capture what you don't.
+Your systems connected, and simple records for what nobody tracks yet.
+Conclude
+Lead with the answer.
+Every screen opens with what matters most, and the evidence behind it.
+Act
+People decide. The record remembers.
+AI prepares the work, engineers approve it, and every decision stays on file.
+Product
+From the largest loss to a verified fix, in one flow.
+Walkthrough · 60 seconds · illustrative data [VIDEO PLACEHOLDER]
+Coverage
+Start where the losses are largest. Expand across the plant.
+Two modules are live today. Every new area plugs into the same model and starts from what the others already know.
+Live today
+Module
+Reliability and root cause
+Fix it once: find the root cause, and prove the failure never came back.
+Explore the module
+Module
+Spare parts
+Never short, never overstocked: every spare sized on the risk it covers.
+Explore the module
+Roadmap
+Losses and costs
+Every loss in the plant, priced and ranked. Attack the largest first.
+Maintenance planning
+Preventive work planned on the real condition of the equipment.
+Operator care
+Daily checks and small fixes by the teams closest to the equipment.
+Quality
+Defects traced back to the process conditions behind them.
+Safety
+Every near miss turned into prevention, before it becomes an incident.
+Energy and environment
+Consumption and emissions tied to equipment and process.
+Logistics
+Material flow from supplier to customer, without waiting or waste.
+New equipment
+Lessons from today's plant designed into tomorrow's lines.
+People and skills
+The skills each team needs, where the plant needs them.
+Principles
+Built for the people who run the plant.
+Evidence
+Measured, not claimed.
+A fix counts when the plant record says it worked. Not before.
+People
+AI drafts. Engineers decide.
+Nothing moves without a named person approving it.
+Fit
+Your plant, your method.
+Built around how your teams already improve, not around a new way of working.
+Security and data
+Your data stays yours. Every number traces back.
+Built for plants where IT and operations both have to say yes.
+Access
+Read-only by default.
+FactoryIQ reads from your systems. Nothing is written back without an explicit, approved integration.
+Lineage
+Traceable to source.
+Every figure links to the records it was calculated from.
+Control
+Approval before action.
+AI suggestions are marked as such. A named person approves every decision, and the log keeps who and when.
+Isolation
+A dedicated environment.
+Each client runs in its own environment. [HOSTING REGION AND DEPLOYMENT OPTIONS]
+Identity
+Access by role.
+People see what their role needs. [SINGLE SIGN-ON SUPPORT]
+AI
+No training on your data.
+Your data is not used to train shared AI models. [CONFIRM AGAINST MODEL PROVIDER TERMS]
+In production
+“[CUSTOMER QUOTE, approved by the customer]”
+[NAME] · [ROLE] · [COMPANY, or “an integrated steel producer” if anonymised]
+[METRIC] [RESULT]
+[METRIC] [RESULT]
+[METRIC] [RESULT]
+Team
+A senior team of industry & AI professionals.
+Filip Van Gerven
+Industry lead
+10+ years in steel and strategy consulting across Europe, Latin America and India. Formerly at ArcelorMittal Europe and Boston Consulting Group; has led operational transformations in steel, mining, chemicals and consumer goods.
+LinkedIn
+Alexander De Lancker
+Cloud lead
+10+ years in big data, advanced analytics and innovation for enterprises. Formerly at Microsoft and Amazon Web Services; has led digital twin, IoT and Industry 4.0 work for large global manufacturers.
+LinkedIn
+Ruben Alliet
+Data lead
+8+ years building data and AI solutions for multinationals: enterprise-scale data platforms, AI agents that automate workflows, and machine learning across Azure, Google Cloud and AWS.
+LinkedIn
+Questions
+Frequently asked questions.
+01
+What is FactoryIQ?
+FactoryIQ is software for manufacturing plants that links maintenance, production and inventory data into one model of the plant. It ranks losses by what they cost, guides the team through root cause analysis, sizes spare parts stock on real risk, and checks on the maintenance record whether each fix held.
+02
+Who is FactoryIQ for?
+Plant managers, maintenance and reliability engineers, continuous improvement teams and stores managers in asset-intensive manufacturing. It is in production at an integrated steel plant.
+03
+What data does FactoryIQ need?
+Maintenance notifications and work orders, spare parts movements and stock levels, production and downtime records, and the loss sheets teams already keep. Where something is not recorded yet, FactoryIQ adds simple capture for it.
+04
+Does FactoryIQ replace our ERP or maintenance system?
+No. FactoryIQ reads from the systems the plant already runs. Nothing is written back to them without an explicit, approved integration.
+05
+How does FactoryIQ use AI?
+AI prepares the work: it drafts analyses, proposes countermeasures and summarises findings. Engineers review, edit and approve every step, and each field shows whether it was drafted by AI, edited or approved.
+06
+How are savings reported?
+In three kinds that are never added together: expected savings from open work (a plan), savings reported at closure (a claim), and savings measured on the plant record before and after the fix (proof).
+07
+How do we start with FactoryIQ?
+With one area and a fixed-scope pilot: connect the data, set a baseline, run live root cause and stock decisions, then decide on a rollout with the results in hand.
+08
+How is our data protected?
+FactoryIQ reads from source systems by default, every figure traces back to the records it came from, a named person approves every change, and each client runs in its own environment.
+Start with one area. Judge us on the result.
+hello@factory-iq.com
+Request a demo
+
+## https://factory-iq.com/reliability.html
+
+Module · live today
+Fix it once.
+FactoryIQ ranks every stop by what it costs, guides the team to the root cause, and proves on the plant record that the failure never came back.
+Request a demo
+All modules
+What it does
+Four jobs, one workspace.
+01
+Rank the losses
+Every stop, by machine and cause, in hours and in money. Start at the top.
+02
+Structured root cause
+A guided, step-by-step method. AI drafts each step; the team reviews and approves.
+03
+Proof it worked
+Before and after, on the plant record, for every failure mode the fix targeted.
+04
+Lessons that travel
+Proven fixes surface on every similar machine, before it fails the same way.
+How it works
+The same sequence, every time.
+01
+Detect
+The largest losses rise to the top on their own.
+02
+Investigate
+The team works the cause, with the evidence in one place.
+03
+Fix
+Countermeasures are planned, owned and tracked.
+04
+Verify
+The plant record decides whether the fix held.
+05
+Spread
+What worked is offered to every similar asset.
+Module walkthrough · illustrative data [VIDEO PLACEHOLDER]
+Results
+“[CUSTOMER QUOTE, approved by the customer]”
+[NAME] · [ROLE] · [COMPANY, or “an integrated steel producer” if anonymised]
+[METRIC] [RESULT]
+[METRIC] [RESULT]
+[METRIC] [RESULT]
+Connected to spare parts: when a fix changes how often a part fails, the stock policy follows.
+Spare parts
+Questions
+Frequently asked questions.
+01
+What does the reliability module do?
+It ranks every stop by machine and reason in hours and money, guides the team through a structured root cause analysis, tracks the countermeasures, and verifies on the maintenance record whether the failure came back.
+02
+How does FactoryIQ show that a fix worked?
+It compares failure rates before and after the countermeasures, for each failure mode the fix targeted, using the plant's own maintenance history.
+03
+Can a fix from one machine be reused on another?
+Yes. Proven countermeasures are tagged by equipment class, component and failure mode, and appear on similar machines before they fail the same way.
+Start with one area. Judge us on the result.
+hello@factory-iq.com
+Request a demo
+
+## https://factory-iq.com/spare-parts.html
+
+Module · live today
+Never short. Never overstocked.
+FactoryIQ sizes every spare on the risk it covers: the critical part is on the shelf when it fails, and the cash is out of the parts that never move.
+Request a demo
+All modules
+What it does
+Four jobs, one workspace.
+01
+Classify every part
+Value, demand pattern and criticality, for the whole catalogue at once.
+02
+See the stock-out coming
+Stock projected forward on real demand and real supplier lead times.
+03
+Size the policy on risk
+Simulate a policy before you change it: cover, cost and cash side by side.
+04
+Decide in one place
+Approve or reject with the evidence attached, and a record of who decided.
+How it works
+The same sequence, every time.
+01
+Classify
+Every part sorted by what it costs and what depends on it.
+02
+Project
+Stock under today's policy, month by month.
+03
+Propose
+A policy sized on the real risk, with its cost.
+04
+Approve
+The right person decides, with the evidence.
+05
+Review
+Policies are revisited as demand and suppliers change.
+Module walkthrough · illustrative data [VIDEO PLACEHOLDER]
+Results
+“[CUSTOMER QUOTE, approved by the customer]”
+[NAME] · [ROLE] · [COMPANY, or “an integrated steel producer” if anonymised]
+[METRIC] [RESULT]
+[METRIC] [RESULT]
+[METRIC] [RESULT]
+Connected to reliability: when a root cause analysis removes a failure, the spare it consumed is re-sized.
+Reliability and root cause
+Questions
+Frequently asked questions.
+01
+How does FactoryIQ classify spare parts?
+By value, demand pattern and criticality, for the whole catalogue at once, so the effort goes to the parts that carry the most risk or tie up the most cash.
+02
+How is a stock policy sized?
+FactoryIQ projects stock on actual usage and real supplier lead times, and lets planners simulate a new policy before changing it, with cover, cost and cash side by side.
+03
+Who approves a change to a stock policy?
+A named person approves or rejects each proposal with the data attached, and the decision is logged with who made it and when.
+Start with one area. Judge us on the result.
+hello@factory-iq.com
+Request a demo
